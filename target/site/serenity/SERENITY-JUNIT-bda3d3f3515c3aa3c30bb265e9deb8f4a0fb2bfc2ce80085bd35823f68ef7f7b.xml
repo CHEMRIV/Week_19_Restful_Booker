@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.herokuapp.booker.bookininfo.BookingCURDTest" skipped="0" tests="5" time="9.31" timestamp="2022-01-15T15:32:07.656Z[Europe/London]"><testcase classname="com.herokuapp.booker.bookininfo.BookingCURDTest" name="Create a new booking"/><testcase classname="com.herokuapp.booker.bookininfo.BookingCURDTest" name="Get the booking"/><testcase classname="com.herokuapp.booker.bookininfo.BookingCURDTest" name="Update the booking"/><testcase classname="com.herokuapp.booker.bookininfo.BookingCURDTest" name="Update the partial booking"><failure message="1 expectation failed.&#10;JSON path additionalneeds doesn't match.&#10;Expected: Bed and Breakfast&#10;  Actual: null&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path additionalneeds doesn't match.
+Expected: Bed and Breakfast
+  Actual: null
+</failure><system-err>1 expectation failed.
+JSON path additionalneeds doesn't match.
+Expected: Bed and Breakfast
+  Actual: null
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:265)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:248)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:268)&#13;
+com.herokuapp.booker.bookininfo.BookingCURDTest.test004(BookingCURDTest.java:80)&#13;
+</system-err></testcase><testcase classname="com.herokuapp.booker.bookininfo.BookingCURDTest" name="Delete the booking"/></testsuite>

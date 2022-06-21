@@ -1,0 +1,10 @@
+com\herokuapp\booker\model\BookingDates.class
+com\herokuapp\booker\bookininfo\AuthSteps.class
+com\herokuapp\booker\bookininfo\BookingSteps.class
+com\herokuapp\booker\constants\Path.class
+com\herokuapp\booker\constants\EndPoints.class
+com\herokuapp\booker\utils\TestUtils.class
+com\herokuapp\booker\params\Headers.class
+com\herokuapp\booker\model\AuthPojo.class
+com\herokuapp\booker\utils\PropertyReader.class
+com\herokuapp\booker\model\BookingPojo.class

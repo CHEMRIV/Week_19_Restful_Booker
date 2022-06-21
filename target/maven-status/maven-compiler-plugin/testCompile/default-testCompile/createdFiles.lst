@@ -1,0 +1,4 @@
+com\herokuapp\booker\bookininfo\BookingCURDTest.class
+com\herokuapp\booker\testbase\TestBase.class
+com\herokuapp\booker\cucumber\CucumberRunner.class
+com\herokuapp\booker\cucumber\steps\MyStepdefs.class
